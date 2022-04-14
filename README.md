@@ -1,1 +1,1 @@
-# algo_trading
+# It is python trading bot
